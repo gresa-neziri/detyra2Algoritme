@@ -1,0 +1,9 @@
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\bin\Debug\Detyra2BruteForce.exe.config
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\bin\Debug\Detyra2BruteForce.exe
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\bin\Debug\Detyra2BruteForce.pdb
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\obj\Debug\Detyra2BruteForce.csprojResolveAssemblyReference.cache
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\obj\Debug\Detyra2BruteForce.Form1.resources
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\obj\Debug\Detyra2BruteForce.Properties.Resources.resources
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\obj\Debug\Detyra2BruteForce.csproj.GenerateResource.Cache
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\obj\Debug\Detyra2BruteForce.exe
+C:\Users\iteg\Desktop\Detyra2BruteForce\Detyra2BruteForce\obj\Debug\Detyra2BruteForce.pdb
