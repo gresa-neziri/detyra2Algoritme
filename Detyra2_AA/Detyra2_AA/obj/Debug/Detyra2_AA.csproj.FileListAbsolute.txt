@@ -1,0 +1,9 @@
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\bin\Debug\Detyra2_AA.exe.config
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\obj\Debug\Detyra2_AA.csprojResolveAssemblyReference.cache
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\obj\Debug\Detyra2_AA.Form1.resources
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\obj\Debug\Detyra2_AA.Properties.Resources.resources
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\obj\Debug\Detyra2_AA.csproj.GenerateResource.Cache
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\bin\Debug\Detyra2_AA.exe
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\bin\Debug\Detyra2_AA.pdb
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\obj\Debug\Detyra2_AA.exe
+D:\FIEK-Subjects\Master\Algoritmet e Avancuara\Detyra2_AA\Detyra2_AA\obj\Debug\Detyra2_AA.pdb
